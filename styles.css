@@ -129,6 +129,12 @@ span{
         /* text-align: justify; */
         margin: 0;
       }
+      button{
+        font-size: 1.5vw;
+    }
+    span{
+        font-size: 1.5vw;
+    }
 }
 
 @media only screen and (max-width:500px){
@@ -157,4 +163,10 @@ span{
         margin: 0px;
         padding: 0px;
       }
+      button{
+        font-size: 1.8vw;
+    }
+    span{
+        font-size: 1.8vw;
+    }
 }
